@@ -1,0 +1,17 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/* <!--
+	designed by : Zubair Moahid 
+    Roll no : 2019CSC2001
+--> */
+/* Loader */
+
+	body {
+		&:before, &:after {
+			display: none;
+		}
+	}

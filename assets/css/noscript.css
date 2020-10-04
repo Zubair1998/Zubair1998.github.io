@@ -1,0 +1,10 @@
+/* <!--
+	designed by : Zubair Moahid 
+    Roll no : 2019CSC2001
+--> */
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}
